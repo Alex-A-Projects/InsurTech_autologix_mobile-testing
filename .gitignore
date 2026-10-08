@@ -1,0 +1,17 @@
+node_modules/
+.tsc-out/
+.env
+*.log
+
+# WebdriverIO / Appium artefacts
+allure-results/
+allure-report/
+wdio-logs/
+wdio-screenshots/
+test-results/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+*.swp
